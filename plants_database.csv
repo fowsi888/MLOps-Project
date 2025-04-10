@@ -1,0 +1,21 @@
+plant_id,plant_type,planting_date,location,last_measured,sepal_length_cm,sepal_width_cm,petal_length_cm,petal_width_cm,health_status,notes
+PLANT-3883,setosa,2025-02-27,Greenhouse 2,2025-03-29,5.2,3.7,1.9,0.1,Excellent,
+PLANT-2675,setosa,2024-05-25,Garden B,2025-03-04,4.5,3.1,1.5,0.2,Good,
+PLANT-4919,setosa,2024-03-30,Garden A,2025-03-28,4.6,3.0,1.1,0.4,Fair,
+PLANT-4389,virginica,2024-08-31,Garden A,2025-03-28,7.2,2.5,5.5,2.1,Fair,
+PLANT-7740,setosa,2024-07-26,Greenhouse 2,2025-03-28,4.7,4.2,1.2,0.4,Good,
+PLANT-3495,virginica,2025-02-18,Greenhouse 1,2025-03-29,7.0,2.9,5.8,1.8,Poor,
+PLANT-2158,virginica,2024-06-22,Greenhouse 1,2025-03-28,7.2,3.2,5.4,1.3,Excellent,
+PLANT-9624,setosa,2024-06-15,Garden B,2025-03-28,4.8,3.5,1.8,0.6,Good,
+PLANT-7480,virginica,2024-04-21,Garden B,2025-03-29,5.5,3.0,4.0,1.9,Excellent,Plant type updated to virginica based on measurements on 2025-03-29 09:57:47
+PLANT-4016,virginica,2024-12-13,Garden A,2025-03-29,7.2,2.4,5.0,1.2,Excellent,Plant type updated to virginica based on measurements on 2025-03-29 09:57:47
+PLANT-8088,setosa,2024-08-03,Greenhouse 2,2025-03-29,5.0,3.6,1.6,0.1,Good,
+PLANT-8622,virginica,2024-10-02,Greenhouse 1,2025-03-29,6.9,3.2,5.9,1.6,Excellent,
+PLANT-9165,virginica,2025-01-26,Garden B,2025-03-29,5.9,3.2,3.7,1.9,Fair,Plant type updated to virginica based on measurements on 2025-03-29 09:57:47
+PLANT-4865,versicolor,2025-02-06,Garden B,2025-03-28,6.3,3.1,3.8,1.2,Poor,
+PLANT-8150,virginica,2024-11-17,Garden B,2025-03-28,7.4,3.3,5.3,2.1,Good,
+PLANT-2091,versicolor,2024-04-10,Greenhouse 2,2025-03-29,5.4,3.6,4.1,1.5,Poor,
+PLANT-9682,versicolor,2025-03-04,Garden B,2025-03-29,5.7,2.9,4.2,1.3,Good,
+PLANT-3461,virginica,2024-08-12,Greenhouse 2,2025-03-28,6.2,3.0,4.2,1.7,Fair,Plant type updated to virginica based on measurements on 2025-03-28 15:35:57
+PLANT-1382,virginica,2024-05-10,Greenhouse 2,2025-03-28,6.6,2.7,5.7,1.5,Good,
+PLANT-6504,virginica,2024-07-19,Greenhouse 1,2025-03-29,6.0,3.1,4.0,1.9,Poor,Plant type updated to virginica based on measurements on 2025-03-28 15:27:26

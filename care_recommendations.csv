@@ -1,0 +1,241 @@
+timestamp,plant_id,plant_type,recommended_action,notes
+2025-03-28 15:21:08,PLANT-3883,setosa,Maintain standard setosa care protocol,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-2675,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-28 15:21:08,PLANT-4919,setosa,Increase watering frequency to twice per week,Based on Fair health status
+2025-03-28 15:21:08,PLANT-4389,virginica,Apply specialized virginica nutrients,Based on Fair health status
+2025-03-28 15:21:08,PLANT-7740,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:21:08,PLANT-3495,virginica,Apply specialized virginica nutrients,Based on Poor health status
+2025-03-28 15:21:08,PLANT-2158,virginica,Consider dividing larger specimens,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-9624,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:21:08,PLANT-7480,versicolor,Maintain current care routine,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-4016,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-8088,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:21:08,PLANT-8622,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-9165,versicolor,Apply balanced NPK fertilizer,Based on Fair health status
+2025-03-28 15:21:08,PLANT-4865,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-28 15:21:08,PLANT-8150,virginica,Consider dividing larger specimens,Based on Good health status
+2025-03-28 15:21:08,PLANT-2091,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-28 15:21:08,PLANT-9682,versicolor,Consider trimming after flowering season,Based on Good health status
+2025-03-28 15:21:08,PLANT-3461,versicolor,Apply balanced NPK fertilizer,Based on Fair health status
+2025-03-28 15:21:08,PLANT-1382,virginica,Consider dividing larger specimens,Based on Good health status
+2025-03-28 15:21:08,PLANT-6504,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-28 15:21:08,PLANT-3883,setosa,Consider propagating healthy specimens,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-2675,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:21:08,PLANT-4919,setosa,Increase watering frequency to twice per week,Based on Fair health status
+2025-03-28 15:21:08,PLANT-4389,virginica,Check for root health and repot if necessary,Based on Fair health status
+2025-03-28 15:21:08,PLANT-7740,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:21:08,PLANT-3495,virginica,Increase light exposure gradually,Based on Poor health status
+2025-03-28 15:21:08,PLANT-2158,virginica,Consider dividing larger specimens,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-9624,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-28 15:21:08,PLANT-7480,versicolor,Protect from excessive sunlight,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-4016,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-8088,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:21:08,PLANT-8622,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-9165,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Fair health status
+2025-03-28 15:21:08,PLANT-4865,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-28 15:21:08,PLANT-8150,virginica,Maintain ideal moisture levels,Based on Good health status
+2025-03-28 15:21:08,PLANT-2091,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-28 15:21:08,PLANT-9682,versicolor,Protect from excessive sunlight,Based on Good health status
+2025-03-28 15:21:08,PLANT-3461,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Fair health status
+2025-03-28 15:21:08,PLANT-1382,virginica,Maintain ideal moisture levels,Based on Good health status
+2025-03-28 15:21:08,PLANT-6504,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Poor health status
+2025-03-28 15:21:08,PLANT-3883,setosa,Consider propagating healthy specimens,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-2675,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:21:08,PLANT-4919,setosa,Increase watering frequency to twice per week,Based on Fair health status
+2025-03-28 15:21:08,PLANT-4389,virginica,Check for root health and repot if necessary,Based on Fair health status
+2025-03-28 15:21:08,PLANT-7740,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:21:08,PLANT-3495,virginica,Apply specialized virginica nutrients,Based on Poor health status
+2025-03-28 15:21:08,PLANT-2158,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-9624,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:21:08,PLANT-7480,versicolor,Consider trimming after flowering season,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-4016,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-8088,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:21:08,PLANT-8622,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:21:08,PLANT-9165,versicolor,Increase humidity levels around the plant,Based on Fair health status
+2025-03-28 15:21:08,PLANT-4865,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Poor health status
+2025-03-28 15:21:08,PLANT-8150,virginica,Maintain ideal moisture levels,Based on Good health status
+2025-03-28 15:21:08,PLANT-2091,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-28 15:21:08,PLANT-9682,versicolor,Consider trimming after flowering season,Based on Good health status
+2025-03-28 15:21:08,PLANT-3461,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Fair health status
+2025-03-28 15:21:08,PLANT-1382,virginica,Consider dividing larger specimens,Based on Good health status
+2025-03-28 15:21:08,PLANT-6504,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-28 15:27:25,PLANT-3883,setosa,Maintain standard setosa care protocol,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-2675,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:27:25,PLANT-4919,setosa,Check for pests common to setosa varieties,Based on Fair health status
+2025-03-28 15:27:25,PLANT-4389,virginica,Check for root health and repot if necessary,Based on Fair health status
+2025-03-28 15:27:25,PLANT-7740,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-28 15:27:25,PLANT-3495,virginica,Apply specialized virginica nutrients,Based on Poor health status
+2025-03-28 15:27:25,PLANT-2158,virginica,Consider dividing larger specimens,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-9624,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-28 15:27:25,PLANT-7480,versicolor,Maintain current care routine,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-4016,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-8088,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:27:25,PLANT-8622,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-9165,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Fair health status
+2025-03-28 15:27:25,PLANT-4865,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-28 15:27:25,PLANT-8150,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-28 15:27:25,PLANT-2091,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-28 15:27:25,PLANT-9682,versicolor,Maintain current care routine,Based on Good health status
+2025-03-28 15:27:25,PLANT-3461,versicolor,Apply balanced NPK fertilizer,Based on Fair health status
+2025-03-28 15:27:25,PLANT-1382,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-28 15:27:25,PLANT-6504,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Poor health status
+2025-03-28 15:27:25,PLANT-3883,setosa,Consider propagating healthy specimens,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-2675,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:27:25,PLANT-4919,setosa,Apply specific setosa fertilizer,Based on Fair health status
+2025-03-28 15:27:25,PLANT-4389,virginica,Increase light exposure gradually,Based on Fair health status
+2025-03-28 15:27:25,PLANT-7740,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-28 15:27:25,PLANT-3495,virginica,Check for root health and repot if necessary,Based on Poor health status
+2025-03-28 15:27:25,PLANT-2158,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-9624,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-28 15:27:25,PLANT-7480,versicolor,Maintain current care routine,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-4016,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-8088,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:27:25,PLANT-8622,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:27:25,PLANT-9165,versicolor,Increase humidity levels around the plant,Based on Fair health status
+2025-03-28 15:27:25,PLANT-4865,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-28 15:27:25,PLANT-8150,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-28 15:27:25,PLANT-2091,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Poor health status
+2025-03-28 15:27:25,PLANT-9682,versicolor,Protect from excessive sunlight,Based on Good health status
+2025-03-28 15:27:25,PLANT-3461,versicolor,Apply balanced NPK fertilizer,Based on Fair health status
+2025-03-28 15:27:25,PLANT-1382,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-28 15:27:25,PLANT-6504,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-28 15:27:26,PLANT-3883,setosa,Maintain standard setosa care protocol,Based on Excellent health status
+2025-03-28 15:27:26,PLANT-2675,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:27:26,PLANT-4919,setosa,Check for pests common to setosa varieties,Based on Fair health status
+2025-03-28 15:27:26,PLANT-4389,virginica,Check for root health and repot if necessary,Based on Fair health status
+2025-03-28 15:27:26,PLANT-7740,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:27:26,PLANT-3495,virginica,Apply specialized virginica nutrients,Based on Poor health status
+2025-03-28 15:27:26,PLANT-2158,virginica,Consider dividing larger specimens,Based on Excellent health status
+2025-03-28 15:27:26,PLANT-9624,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:27:26,PLANT-7480,versicolor,Protect from excessive sunlight,Based on Excellent health status
+2025-03-28 15:27:26,PLANT-4016,virginica,Consider dividing larger specimens,Based on Excellent health status
+2025-03-28 15:27:26,PLANT-8088,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:27:26,PLANT-8622,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-28 15:27:26,PLANT-9165,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Fair health status
+2025-03-28 15:27:26,PLANT-4865,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Poor health status
+2025-03-28 15:27:26,PLANT-8150,virginica,Maintain ideal moisture levels,Based on Good health status
+2025-03-28 15:27:26,PLANT-2091,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-28 15:27:26,PLANT-9682,versicolor,Maintain current care routine,Based on Good health status
+2025-03-28 15:27:26,PLANT-3461,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Fair health status
+2025-03-28 15:27:26,PLANT-1382,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-28 15:27:26,PLANT-6504,virginica,Increase light exposure gradually,Based on Poor health status
+2025-03-28 15:35:57,PLANT-3883,setosa,Monitor growth patterns,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-2675,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:35:57,PLANT-4919,setosa,Increase watering frequency to twice per week,Based on Fair health status
+2025-03-28 15:35:57,PLANT-4389,virginica,Check for root health and repot if necessary,Based on Fair health status
+2025-03-28 15:35:57,PLANT-7740,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:35:57,PLANT-3495,virginica,Increase light exposure gradually,Based on Poor health status
+2025-03-28 15:35:57,PLANT-2158,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-9624,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:35:57,PLANT-7480,versicolor,Consider trimming after flowering season,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-4016,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-8088,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:35:57,PLANT-8622,virginica,Consider dividing larger specimens,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-9165,versicolor,Apply balanced NPK fertilizer,Based on Fair health status
+2025-03-28 15:35:57,PLANT-4865,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Poor health status
+2025-03-28 15:35:57,PLANT-8150,virginica,Consider dividing larger specimens,Based on Good health status
+2025-03-28 15:35:57,PLANT-2091,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-28 15:35:57,PLANT-9682,versicolor,Consider trimming after flowering season,Based on Good health status
+2025-03-28 15:35:57,PLANT-3461,versicolor,Apply balanced NPK fertilizer,Based on Fair health status
+2025-03-28 15:35:57,PLANT-1382,virginica,Maintain ideal moisture levels,Based on Good health status
+2025-03-28 15:35:57,PLANT-6504,virginica,Increase light exposure gradually,Based on Poor health status
+2025-03-28 15:35:57,PLANT-3883,setosa,Maintain standard setosa care protocol,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-2675,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:35:57,PLANT-4919,setosa,Apply specific setosa fertilizer,Based on Fair health status
+2025-03-28 15:35:57,PLANT-4389,virginica,Apply specialized virginica nutrients,Based on Fair health status
+2025-03-28 15:35:57,PLANT-7740,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-28 15:35:57,PLANT-3495,virginica,Check for root health and repot if necessary,Based on Poor health status
+2025-03-28 15:35:57,PLANT-2158,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-9624,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:35:57,PLANT-7480,versicolor,Consider trimming after flowering season,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-4016,versicolor,Consider trimming after flowering season,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-8088,setosa,Monitor growth patterns,Based on Good health status
+2025-03-28 15:35:57,PLANT-8622,virginica,Consider dividing larger specimens,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-9165,versicolor,Increase humidity levels around the plant,Based on Fair health status
+2025-03-28 15:35:57,PLANT-4865,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-28 15:35:57,PLANT-8150,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-28 15:35:57,PLANT-2091,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-28 15:35:57,PLANT-9682,versicolor,Consider trimming after flowering season,Based on Good health status
+2025-03-28 15:35:57,PLANT-3461,versicolor,Apply balanced NPK fertilizer,Based on Fair health status
+2025-03-28 15:35:57,PLANT-1382,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-28 15:35:57,PLANT-6504,virginica,Check for root health and repot if necessary,Based on Poor health status
+2025-03-28 15:35:57,PLANT-3883,setosa,Monitor growth patterns,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-2675,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:35:57,PLANT-4919,setosa,Check for pests common to setosa varieties,Based on Fair health status
+2025-03-28 15:35:57,PLANT-4389,virginica,Increase light exposure gradually,Based on Fair health status
+2025-03-28 15:35:57,PLANT-7740,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-28 15:35:57,PLANT-3495,virginica,Apply specialized virginica nutrients,Based on Poor health status
+2025-03-28 15:35:57,PLANT-2158,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-9624,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:35:57,PLANT-7480,versicolor,Consider trimming after flowering season,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-4016,versicolor,Maintain current care routine,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-8088,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-28 15:35:57,PLANT-8622,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-28 15:35:57,PLANT-9165,versicolor,Apply balanced NPK fertilizer,Based on Fair health status
+2025-03-28 15:35:57,PLANT-4865,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-28 15:35:57,PLANT-8150,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-28 15:35:57,PLANT-2091,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-28 15:35:57,PLANT-9682,versicolor,Consider trimming after flowering season,Based on Good health status
+2025-03-28 15:35:57,PLANT-3461,virginica,Check for root health and repot if necessary,Based on Fair health status
+2025-03-28 15:35:57,PLANT-1382,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-28 15:35:57,PLANT-6504,virginica,Increase light exposure gradually,Based on Poor health status
+2025-03-29 09:57:47,PLANT-3883,setosa,Maintain standard setosa care protocol,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-2675,setosa,Monitor growth patterns,Based on Good health status
+2025-03-29 09:57:47,PLANT-4919,setosa,Check for pests common to setosa varieties,Based on Fair health status
+2025-03-29 09:57:47,PLANT-4389,virginica,Increase light exposure gradually,Based on Fair health status
+2025-03-29 09:57:47,PLANT-7740,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-29 09:57:47,PLANT-3495,virginica,Increase light exposure gradually,Based on Poor health status
+2025-03-29 09:57:47,PLANT-2158,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-9624,setosa,Monitor growth patterns,Based on Good health status
+2025-03-29 09:57:47,PLANT-7480,versicolor,Consider trimming after flowering season,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-4016,versicolor,Consider trimming after flowering season,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-8088,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-29 09:57:47,PLANT-8622,virginica,Consider dividing larger specimens,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-9165,versicolor,Increase humidity levels around the plant,Based on Fair health status
+2025-03-29 09:57:47,PLANT-4865,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Poor health status
+2025-03-29 09:57:47,PLANT-8150,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-29 09:57:47,PLANT-2091,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-29 09:57:47,PLANT-9682,versicolor,Consider trimming after flowering season,Based on Good health status
+2025-03-29 09:57:47,PLANT-3461,virginica,Check for root health and repot if necessary,Based on Fair health status
+2025-03-29 09:57:47,PLANT-1382,virginica,Apply preventative pest measures,Based on Good health status
+2025-03-29 09:57:47,PLANT-6504,virginica,Check for root health and repot if necessary,Based on Poor health status
+2025-03-29 09:57:47,PLANT-3883,setosa,Consider propagating healthy specimens,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-2675,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-29 09:57:47,PLANT-4919,setosa,Check for pests common to setosa varieties,Based on Fair health status
+2025-03-29 09:57:47,PLANT-4389,virginica,Increase light exposure gradually,Based on Fair health status
+2025-03-29 09:57:47,PLANT-7740,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-29 09:57:47,PLANT-3495,virginica,Increase light exposure gradually,Based on Poor health status
+2025-03-29 09:57:47,PLANT-2158,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-9624,setosa,Monitor growth patterns,Based on Good health status
+2025-03-29 09:57:47,PLANT-7480,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-4016,versicolor,Consider trimming after flowering season,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-8088,setosa,Maintain standard setosa care protocol,Based on Good health status
+2025-03-29 09:57:47,PLANT-8622,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-9165,versicolor,Apply balanced NPK fertilizer,Based on Fair health status
+2025-03-29 09:57:47,PLANT-4865,versicolor,Increase humidity levels around the plant,Based on Poor health status
+2025-03-29 09:57:47,PLANT-8150,virginica,Maintain ideal moisture levels,Based on Good health status
+2025-03-29 09:57:47,PLANT-2091,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Poor health status
+2025-03-29 09:57:47,PLANT-9682,versicolor,Protect from excessive sunlight,Based on Good health status
+2025-03-29 09:57:47,PLANT-3461,virginica,Increase light exposure gradually,Based on Fair health status
+2025-03-29 09:57:47,PLANT-1382,virginica,Consider dividing larger specimens,Based on Good health status
+2025-03-29 09:57:47,PLANT-6504,virginica,Check for root health and repot if necessary,Based on Poor health status
+2025-03-29 09:57:47,PLANT-3883,setosa,Consider propagating healthy specimens,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-2675,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-29 09:57:47,PLANT-4919,setosa,Apply specific setosa fertilizer,Based on Fair health status
+2025-03-29 09:57:47,PLANT-4389,virginica,Apply specialized virginica nutrients,Based on Fair health status
+2025-03-29 09:57:47,PLANT-7740,setosa,Monitor growth patterns,Based on Good health status
+2025-03-29 09:57:47,PLANT-3495,virginica,Increase light exposure gradually,Based on Poor health status
+2025-03-29 09:57:47,PLANT-2158,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-9624,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-29 09:57:47,PLANT-7480,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-4016,virginica,Maintain ideal moisture levels,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-8088,setosa,Consider propagating healthy specimens,Based on Good health status
+2025-03-29 09:57:47,PLANT-8622,virginica,Apply preventative pest measures,Based on Excellent health status
+2025-03-29 09:57:47,PLANT-9165,virginica,Increase light exposure gradually,Based on Fair health status
+2025-03-29 09:57:47,PLANT-4865,versicolor,Check soil pH, ensure 6.0-6.5 range,Based on Poor health status
+2025-03-29 09:57:47,PLANT-8150,virginica,Maintain ideal moisture levels,Based on Good health status
+2025-03-29 09:57:47,PLANT-2091,versicolor,Apply balanced NPK fertilizer,Based on Poor health status
+2025-03-29 09:57:47,PLANT-9682,versicolor,Protect from excessive sunlight,Based on Good health status
+2025-03-29 09:57:47,PLANT-3461,virginica,Check for root health and repot if necessary,Based on Fair health status
+2025-03-29 09:57:47,PLANT-1382,virginica,Consider dividing larger specimens,Based on Good health status
+2025-03-29 09:57:47,PLANT-6504,virginica,Increase light exposure gradually,Based on Poor health status
